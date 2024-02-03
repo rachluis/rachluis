@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rachluis
-- 👀 I’m interested in softball
-- 🌱 I’m currently learning matlab and sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : liuruisandra@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in softball,math,reading...
+- 🌱 I’m currently learning matlab, sql, python...
+- 💞️ I’m looking to collaborate on data analysts
+- 📫 How to reach me : liuruisandra@gmail.com
+- 😄 Pronouns: Shanghai International Studies University
+- ⚡ Major: Big data management and application;  English(double degree)
 
 <!---
 rachluis/rachluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
