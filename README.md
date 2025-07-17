@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning matlab, sql, python...
 - 💞️ I’m looking to collaborate on data analysts
 - 📫 How to reach me : liuruisandra@gmail.com
-- 😄 From: Shanghai International Studies University
-- ⚡ Major: Management Information Systems
+- ⚡ Major:Information Management and Information Systems
 
 <!---
 rachluis/rachluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
